@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Data+Science+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 JupyterLab Desktop Free Installer** — JupyterLab Desktop is the standalone desktop application for JupyterLab, the popular web-based interactive development environment for data science and scientific computing. Works without internet access, no account required. Full offline installation.
+**💻 JupyterLab Desktop Free Installer** — JupyterLab Desktop is a standalone desktop application for JupyterLab, the next-generation web-based interactive development environment for notebooks, code, and data. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About JupyterLab Desktop
 
-JupyterLab Desktop is the standalone desktop application for JupyterLab, the popular web-based interactive development environment for data science and scientific computing. Run Python, R, Julia, and other kernels in Jupyter notebooks without needing to manage a server. JupyterLab Desktop bundles a Python environment and provides an integrated launcher for notebooks, terminals, and data files.
+JupyterLab Desktop is a standalone desktop application for JupyterLab, the next-generation web-based interactive development environment for notebooks, code, and data. It bundles a Python environment and JupyterLab server into a self-contained desktop experience.
 
 ---
 
 ## ❌ Problem: JupyterLab Desktop is hard to access
 
-- **Resource Usage** — Higher memory usage than lightweight Python editors
-- **Kernel Management** — Managing multiple language kernels adds complexity
-- **Extension Compatibility** — Not all JupyterLab extensions work with the desktop version
-- **Version Pinning** — Bundled Python version may lag behind current releases
+- **Python Knowledge Required** — Full value requires Python programming and data science background
+- **Resource Usage** — Running a local Jupyter server consumes significant memory
+- **Notebook Format** — Jupyter .ipynb files not native documents; version control diffs are verbose
+- **Performance vs IDE** — Notebook execution model slower than script execution for large computations
 
 ---
 
@@ -121,7 +121,7 @@ JupyterLab Desktop is the standalone desktop application for JupyterLab, the pop
 
 ---
 
-**JupyterLab Desktop Free Installer** — JupyterLab Desktop is the standalone desktop application for JupyterLab, the popular web-based interactive development environment for data science and scientific computing. Install without internet connection today!
+**JupyterLab Desktop Free Installer** — JupyterLab Desktop is a standalone desktop application for JupyterLab, the next-generation web-based interactive development environment for notebooks, code, and data. Install without internet connection today!
 
 <div align="center">
 
